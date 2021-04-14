@@ -1,1 +1,2 @@
-echo "hello_world"
+x="Hello World"
+echo $x
